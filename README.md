@@ -1,4 +1,4 @@
-# Driving into the Sunset, Project 1
+# Driving into the Sunset
 
 ## Team Members:
 * Grant Thompson
